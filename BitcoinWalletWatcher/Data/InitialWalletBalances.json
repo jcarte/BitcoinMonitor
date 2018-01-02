@@ -1,0 +1,646 @@
+[
+ {
+   "Address": "16rCmCmbuWDhPjWTrpQGaU3EPdZF7MTdUk",
+   "Notes": "#2",
+   "CurrentBalanceBTC": 119203,
+   "MaxBalanceBTC": 119203,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "3Nxwenay9Z8Lc9JBiywExpnEFiLp6Afp8v",
+   "Notes": "#3",
+   "CurrentBalanceBTC": 88348,
+   "MaxBalanceBTC": 88348,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1FeexV6bAHb8ybZjqQMjJrcCrHGW9sb6uF",
+   "Notes": "#4",
+   "CurrentBalanceBTC": 79957,
+   "MaxBalanceBTC": 79957,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "18rnfoQgGo1HqvVQaAN4QnxjYE7Sez9eca",
+   "Notes": "#5 | wallet: 29043297",
+   "CurrentBalanceBTC": 76000,
+   "MaxBalanceBTC": 76000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1HQ3Go3ggs8pFnXuHVHRytPCq5fGG8Hbhx",
+   "Notes": "#6 | Possibly Winklevoss Wallet",
+   "CurrentBalanceBTC": 69370,
+   "MaxBalanceBTC": 69370,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1PnMfRF2enSZnR6JSexxBHuQnxG8Vo5FVK",
+   "Notes": "#7",
+   "CurrentBalanceBTC": 66452,
+   "MaxBalanceBTC": 66452,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1AhTjUMztCihiTyA4K6E3QEpobjWLwKhkR",
+   "Notes": "#8",
+   "CurrentBalanceBTC": 66379,
+   "MaxBalanceBTC": 66379,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1DiHDQMPFu4p84rkLn6Majj2LCZZZRQUaa",
+   "Notes": "#9",
+   "CurrentBalanceBTC": 66236,
+   "MaxBalanceBTC": 66236,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1EBHA1ckUWzNKN7BMfDwGTx6GKEbADUozX",
+   "Notes": "#10",
+   "CurrentBalanceBTC": 66234,
+   "MaxBalanceBTC": 66234,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "16ftSEQ4ctQFDtVZiUBusQUjRrGhM3JYwe",
+   "Notes": "#11",
+   "CurrentBalanceBTC": 61798,
+   "MaxBalanceBTC": 61798,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1LdRcdxfbSnmCYYNdeYpUnztiYzVfBEQeC",
+   "Notes": "#12",
+   "CurrentBalanceBTC": 53880,
+   "MaxBalanceBTC": 53880,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1JCe8z4jJVNXSjohjM4i9Hh813dLCNx2Sy",
+   "Notes": "#13",
+   "CurrentBalanceBTC": 53000,
+   "MaxBalanceBTC": 53000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1MuYkciQTfRsU94ReAe5MiAfUpCrbLBcFR",
+   "Notes": "#14",
+   "CurrentBalanceBTC": 51044,
+   "MaxBalanceBTC": 51044,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1Jh8THzSSQBZKYg8in5f6Sowsp3gxjjcpC",
+   "Notes": "#15",
+   "CurrentBalanceBTC": 48500,
+   "MaxBalanceBTC": 48500,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "3R1hBCHURkquAjFUv1eH5u2gXqooJkjg4B",
+   "Notes": "#16",
+   "CurrentBalanceBTC": 46899,
+   "MaxBalanceBTC": 46899,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1CiAzyf5JFxDUm28oBNxt3TMsTi1EW7CLZ",
+   "Notes": "#17",
+   "CurrentBalanceBTC": 44010,
+   "MaxBalanceBTC": 44010,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "3Cbq7aT1tY8kMxWLbitaG7yT6bPbKChq64",
+   "Notes": "#18",
+   "CurrentBalanceBTC": 44000,
+   "MaxBalanceBTC": 44000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "39jzjt85tcRkqki6BeRzsD4FfF6BZKYQnR",
+   "Notes": "#19",
+   "CurrentBalanceBTC": 40000,
+   "MaxBalanceBTC": 40000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "17hf5H8D6Yc4B7zHEg3orAtKn7Jhme7Adx",
+   "Notes": "#20",
+   "CurrentBalanceBTC": 36000,
+   "MaxBalanceBTC": 36000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "33VMRgxXZWgZGmGnGRZ9AEW8bZs8scMiY1",
+   "Notes": "#21",
+   "CurrentBalanceBTC": 35570,
+   "MaxBalanceBTC": 35570,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "3Ap6mixhHLmVtH41YHH94Ut4jBfmqRpzgQ",
+   "Notes": "#23",
+   "CurrentBalanceBTC": 35469,
+   "MaxBalanceBTC": 35469,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "3CqBquEFMYY548fNBz8u2MBw3HKprS3Xft",
+   "Notes": "#24",
+   "CurrentBalanceBTC": 35293,
+   "MaxBalanceBTC": 35293,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "323ENWgPNZdzsm2d6CzEaPTFrvavn1giv5",
+   "Notes": "#25",
+   "CurrentBalanceBTC": 35204,
+   "MaxBalanceBTC": 35204,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "32ixB1aXiwgpHGHo27SMRSULajCdc7jq9Q",
+   "Notes": "#26",
+   "CurrentBalanceBTC": 35000,
+   "MaxBalanceBTC": 35000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "37x6JnDNhbsBw95bvEreB7WHWA74gGR17y",
+   "Notes": "#27",
+   "CurrentBalanceBTC": 34280,
+   "MaxBalanceBTC": 34280,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "32GxivQN3VKtVEtgsH5uTWfXd5b2LkXyUZ",
+   "Notes": "#28",
+   "CurrentBalanceBTC": 32490,
+   "MaxBalanceBTC": 32490,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1KjcmwEJ2iNkjanGzN4jWauN2Rsdk65GGu",
+   "Notes": "#30",
+   "CurrentBalanceBTC": 31270,
+   "MaxBalanceBTC": 31270,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "15yoc6N7nYwUsrw9ya6UUxGLEhUdkg9FDQ",
+   "Notes": "#31",
+   "CurrentBalanceBTC": 31085,
+   "MaxBalanceBTC": 31085,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "12ib7dApVFvg82TXKycWBNpN8kFyiAN1dr",
+   "Notes": "#32 | wallet: 967",
+   "CurrentBalanceBTC": 31000,
+   "MaxBalanceBTC": 31000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "17QY6BzRnsTGKBqGdZHG1bWe1VB6MweiDH",
+   "Notes": "#33",
+   "CurrentBalanceBTC": 30988,
+   "MaxBalanceBTC": 30988,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "13beT45wEmqWwcTnAPDsUrHqHDnwS1xrjf",
+   "Notes": "#34",
+   "CurrentBalanceBTC": 30241,
+   "MaxBalanceBTC": 30241,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1FrKNGFCqZAV3y3n9HSswoSDX8ExKb2paD",
+   "Notes": "#35",
+   "CurrentBalanceBTC": 30108,
+   "MaxBalanceBTC": 30108,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1GqaihzhS33G4kt7VKJ7UEL1ENaHazRS2k",
+   "Notes": "#36",
+   "CurrentBalanceBTC": 29772,
+   "MaxBalanceBTC": 29772,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "12tkqA9xSoowkzoERHMWNKsTey55YEBqkv",
+   "Notes": "#37",
+   "CurrentBalanceBTC": 28151,
+   "MaxBalanceBTC": 28151,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1CFtF5D3Sc3H3yRcwiGh9pvQqmdQFPPd6i",
+   "Notes": "#38",
+   "CurrentBalanceBTC": 27833,
+   "MaxBalanceBTC": 27833,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1JTseLw3XXPYDEM2PDnYt1n3iMqNEpc8qd",
+   "Notes": "#39",
+   "CurrentBalanceBTC": 27683,
+   "MaxBalanceBTC": 27683,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1N8emyFpMob6hDVhLiV1kTPiHBB8DQHWpp",
+   "Notes": "#40",
+   "CurrentBalanceBTC": 26343,
+   "MaxBalanceBTC": 26343,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "198mmEcqMgmjmi4pXi48hRaZyK5GaPDmJt",
+   "Notes": "#41",
+   "CurrentBalanceBTC": 26215,
+   "MaxBalanceBTC": 26215,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "33VukC9ReF5bkDvPNUTy5j6VEbzMc9JFt3",
+   "Notes": "#42",
+   "CurrentBalanceBTC": 26055,
+   "MaxBalanceBTC": 26055,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1J7fmT3Wv62u4p6FuwbVJQXhQE3HiH4AQs",
+   "Notes": "#43",
+   "CurrentBalanceBTC": 25489,
+   "MaxBalanceBTC": 25489,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1G1AndHMczVQYLGfYJzqkDjXrFifpMsTaZ",
+   "Notes": "#44",
+   "CurrentBalanceBTC": 25409,
+   "MaxBalanceBTC": 25409,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "38UmuUqPCrFmQo4khkomQwZ4VbY2nZMJ67",
+   "Notes": "#45",
+   "CurrentBalanceBTC": 25406,
+   "MaxBalanceBTC": 25406,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1A4WLCaR11ARbib283pnH8jy8s4TJEjjPz",
+   "Notes": "#46",
+   "CurrentBalanceBTC": 25403,
+   "MaxBalanceBTC": 25403,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1JfoBz3smLAFxCMHXw155b4UE9FeYNBvCv",
+   "Notes": "#47",
+   "CurrentBalanceBTC": 25378,
+   "MaxBalanceBTC": 25378,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "13cKZYW75zBPuW6xp8Pt5QTWFHQpXosP56",
+   "Notes": "#48",
+   "CurrentBalanceBTC": 25302,
+   "MaxBalanceBTC": 25302,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "153yuheqMotbbAxxXc8Ztwx73oSMyAB1wq",
+   "Notes": "#49",
+   "CurrentBalanceBTC": 25272,
+   "MaxBalanceBTC": 25272,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "15UM5LKsgR3UyLaTLZkPudU7Joe1JnYWQo",
+   "Notes": "#50",
+   "CurrentBalanceBTC": 25064,
+   "MaxBalanceBTC": 25064,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "36png4nUpGkCrYnRXNR4PMSRFEgGadmh8S",
+   "Notes": "#51",
+   "CurrentBalanceBTC": 24980,
+   "MaxBalanceBTC": 24980,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "3HZUwxZbYRef9oEuvSvjgVMyZ227Hur7ng",
+   "Notes": "#52",
+   "CurrentBalanceBTC": 24000,
+   "MaxBalanceBTC": 24000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "16cMtdRsCssvkzFRCZULS66ursnLvBqU4T",
+   "Notes": "#54",
+   "CurrentBalanceBTC": 22200,
+   "MaxBalanceBTC": 22200,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "31z6HYbMV8APKLUVpAkuqXGe5QY7vBquD5",
+   "Notes": "#55",
+   "CurrentBalanceBTC": 22006,
+   "MaxBalanceBTC": 22006,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "36BLG6VRXw4AQBC8RTVcdqh1XXBRtcRKkN",
+   "Notes": "#56",
+   "CurrentBalanceBTC": 21744,
+   "MaxBalanceBTC": 21744,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "16JNEdbSahSuPFv2rGKgsHoekQsTqEgF8d",
+   "Notes": "#57",
+   "CurrentBalanceBTC": 21718,
+   "MaxBalanceBTC": 21718,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1QHqVQhGW2EWuggRfUHDkymNscFYiDPrxn",
+   "Notes": "#58",
+   "CurrentBalanceBTC": 21129,
+   "MaxBalanceBTC": 21129,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "17rm2dvb439dZqyMe2d4D6AQJSgg6yeNRn",
+   "Notes": "#60",
+   "CurrentBalanceBTC": 20008,
+   "MaxBalanceBTC": 20008,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1PeizMg76Cf96nUQrYg8xuoZWLQozU5zGW",
+   "Notes": "#61",
+   "CurrentBalanceBTC": 19414,
+   "MaxBalanceBTC": 19414,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "34y4eyYK3mUPoys9xz9QSEHKh2RG5iLDuZ",
+   "Notes": "#62 | wallet: 25606585",
+   "CurrentBalanceBTC": 18944,
+   "MaxBalanceBTC": 18944,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "19vWUsLH7G6yQH484r3n1GodLEoLivWHJg",
+   "Notes": "#65 | wallet: 35763042",
+   "CurrentBalanceBTC": 17523,
+   "MaxBalanceBTC": 17523,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1MzG9Gx5G3ZTXtEQT4FJg23Cb3gS6UF982",
+   "Notes": "#66",
+   "CurrentBalanceBTC": 15746,
+   "MaxBalanceBTC": 15746,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1Em4qD9rUbeDAPYiymXY9BnQSadn4bGWg4",
+   "Notes": "#67",
+   "CurrentBalanceBTC": 15000,
+   "MaxBalanceBTC": 15000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1BQsFpsEiZyecSTytUq2SDLbz2Ngmp9ibc",
+   "Notes": "#68",
+   "CurrentBalanceBTC": 15000,
+   "MaxBalanceBTC": 15000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1PfceCKGraSPEvx6nfjw5ZCLLy8Ct23Qd5",
+   "Notes": "#69",
+   "CurrentBalanceBTC": 15000,
+   "MaxBalanceBTC": 15000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "3645N22DDswRxV4BQGbuBrgHCAYUmzcHU6",
+   "Notes": "#70",
+   "CurrentBalanceBTC": 14500,
+   "MaxBalanceBTC": 14500,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "13u5wTB3bKLwCQqP25eiZRxe2Jn4Y2M25x",
+   "Notes": "#71",
+   "CurrentBalanceBTC": 14000,
+   "MaxBalanceBTC": 14000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "3673hPWJuUkbdf9RRpoSLLtuXMG44FsLng",
+   "Notes": "#72",
+   "CurrentBalanceBTC": 13900,
+   "MaxBalanceBTC": 13900,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "173gzzrbkCaX6T2L5QUWcXSz2rFo3BAzE7",
+   "Notes": "#73",
+   "CurrentBalanceBTC": 13600,
+   "MaxBalanceBTC": 13600,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1GKztam9D8ZWK9GxsNoNZbVSVs9Pk1nAXp",
+   "Notes": "#74",
+   "CurrentBalanceBTC": 13000,
+   "MaxBalanceBTC": 13000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1KKiEAkpnQR2FH5kpkGP6442ZDkd6ZdrRS",
+   "Notes": "#75",
+   "CurrentBalanceBTC": 12800,
+   "MaxBalanceBTC": 12800,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1GA3umU6Z1pApEM47r8SD4VUDhWyUbh1Q9",
+   "Notes": "#76",
+   "CurrentBalanceBTC": 12562,
+   "MaxBalanceBTC": 12562,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1HBM45n214sV9yXoizBwTksUgEysTPpk46",
+   "Notes": "#77",
+   "CurrentBalanceBTC": 12000,
+   "MaxBalanceBTC": 12000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "15NQthxeLSwMtEaXJFM7YUCf59LzmFjkeH",
+   "Notes": "#78",
+   "CurrentBalanceBTC": 11800,
+   "MaxBalanceBTC": 11800,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1J2dTQyF4htbBYM3iBobLVJgUgF6zMdSw1",
+   "Notes": "#79",
+   "CurrentBalanceBTC": 11784,
+   "MaxBalanceBTC": 11784,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "12jjYt9MkWgbkfm9heNTgr2wAjV5AtX3sn",
+   "Notes": "#80",
+   "CurrentBalanceBTC": 11739,
+   "MaxBalanceBTC": 11739,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1AdyNzoY6jYQszF6finfrhnLZ3yATnFnae",
+   "Notes": "#81",
+   "CurrentBalanceBTC": 11345,
+   "MaxBalanceBTC": 11345,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "3Ak9KZKmuhs3sF7aWhzATFSwUdQ1o1hNUr",
+   "Notes": "#83",
+   "CurrentBalanceBTC": 11185,
+   "MaxBalanceBTC": 11185,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "19G5kkYvjawZiYKhFeh8WmfBN31pdP94Jr",
+   "Notes": "#84",
+   "CurrentBalanceBTC": 11102,
+   "MaxBalanceBTC": 11102,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "16V3fxZBUgSC9APM8QjbxnrzkqwvssYSUq",
+   "Notes": "#85",
+   "CurrentBalanceBTC": 11092,
+   "MaxBalanceBTC": 11092,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1F34duy2eeMz5mSrvFepVzy7Y1rBsnAyWC",
+   "Notes": "#86",
+   "CurrentBalanceBTC": 10771,
+   "MaxBalanceBTC": 10771,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "3Kg7Cmooris7cLErTsijq6qR1FH3cTiK2G",
+   "Notes": "#87",
+   "CurrentBalanceBTC": 10748,
+   "MaxBalanceBTC": 10748,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "3FXFshYr97aQUizVEGwdCLNdDihWtqHsT9",
+   "Notes": "#88",
+   "CurrentBalanceBTC": 10640,
+   "MaxBalanceBTC": 10640,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1f1miYFQWTzdLiCBxtHHnNiW7WAWPUccr",
+   "Notes": "#89",
+   "CurrentBalanceBTC": 10009,
+   "MaxBalanceBTC": 10009,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "187Nqgq3WoKihPNMtWYfRe6z2CFUJhbgFh",
+   "Notes": "#90",
+   "CurrentBalanceBTC": 10002,
+   "MaxBalanceBTC": 10002,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "19PPeuu4jPjqtefSQ2FDgKmNJ88Z5wiuJt",
+   "Notes": "#91 | wallet: 33660730",
+   "CurrentBalanceBTC": 10000,
+   "MaxBalanceBTC": 10000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "15jdxjFhXUsp2xuycmKnjw8yk1WsVon69c",
+   "Notes": "#92 | wallet: 33660730",
+   "CurrentBalanceBTC": 10000,
+   "MaxBalanceBTC": 10000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "18LpE3eaXgzUc7XGTNKCgZkD4EZN4NcAbK",
+   "Notes": "#93 | wallet: 33660730",
+   "CurrentBalanceBTC": 10000,
+   "MaxBalanceBTC": 10000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "14YK4mzJGo5NKkNnmVJeuEAQftLt795Gec",
+   "Notes": "#94",
+   "CurrentBalanceBTC": 10000,
+   "MaxBalanceBTC": 10000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "12tLs9c9RsALt4ockxa1hB4iTCTSmxj2me",
+   "Notes": "#95",
+   "CurrentBalanceBTC": 10000,
+   "MaxBalanceBTC": 10000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1P1iThxBH542Gmk1kZNXyji4E4iwpvSbrt",
+   "Notes": "#96",
+   "CurrentBalanceBTC": 10000,
+   "MaxBalanceBTC": 10000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1KbrSKrT3GeEruTuuYYUSQ35JwKbrAWJYm",
+   "Notes": "#97",
+   "CurrentBalanceBTC": 10000,
+   "MaxBalanceBTC": 10000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1BAFWQhH9pNkz3mZDQ1tWrtKkSHVCkc3fV",
+   "Notes": "#98",
+   "CurrentBalanceBTC": 10000,
+   "MaxBalanceBTC": 10000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1CPaziTqeEixPoSFtJxu74uDGbpEAotZom",
+   "Notes": "#99",
+   "CurrentBalanceBTC": 10000,
+   "MaxBalanceBTC": 10000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ },
+ {
+   "Address": "1ucXXZQSEf4zny2HRwAQKtVpkLPTUKRtt",
+   "Notes": "#100",
+   "CurrentBalanceBTC": 10000,
+   "MaxBalanceBTC": 10000,
+   "LastBalanceScrapedAt": "2017-12-26T00:00:00Z"
+ }
+]
