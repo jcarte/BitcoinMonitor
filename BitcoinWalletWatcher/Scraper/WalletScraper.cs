@@ -5,17 +5,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BitcoinWalletWatcher
+namespace BitcoinWalletWatcher.Scraper
 {
     /// <summary>
     /// Get the updated balances of bitcoing wallets
     /// </summary>
     public class WalletScraper
     {
-        HttpHelper _http;
+        IHttpHelper _http;
         string _baseUrl;//starting url for api call
         const string ADDRESS_SEPERATOR = "|";//how list of wallet addresses are delimited in query url
-        public WalletScraper(HttpHelper http, string baseUrl)
+        public WalletScraper(IHttpHelper http, string baseUrl)
         {
             _http = http;
             _baseUrl = baseUrl;
@@ -30,10 +30,8 @@ namespace BitcoinWalletWatcher
         {
             string addys = string.Join(ADDRESS_SEPERATOR, walletAddresses);//construct param part of url
 
-            var resp = await _http.GetJsonAsync(_baseUrl + addys);//get balances
-
+            var json = await _http.GetJsonAsync(_baseUrl + addys);//get balances
             var sentTime = DateTime.Now;
-            string json = await resp.Content.ReadAsStringAsync();//extract balances from response and return
 
             ////Example JSON
             //{"16rCmCmbuWDhPjWTrpQGaU3EPdZF7MTdUk": {

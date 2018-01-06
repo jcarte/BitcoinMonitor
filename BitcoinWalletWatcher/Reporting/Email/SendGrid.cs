@@ -145,7 +145,7 @@ namespace BitcoinWalletWatcher.Reporting.Email
                 {"Authorization",$"Bearer {_setting.ApiSecretKey}"}
             };
 
-            var res = await _http.PostJsonAsync(url, bodyContent, head);
+            await _http.PostJsonAsync(url, bodyContent, head);
         }
     }
 }

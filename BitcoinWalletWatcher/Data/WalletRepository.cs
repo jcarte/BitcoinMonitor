@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -10,22 +9,24 @@ namespace BitcoinWalletWatcher.Data
     public class WalletRepository
     {
         MonitorContext _context;
-        public WalletRepository(MonitorContext context)
+        public WalletRepository(MonitorContext context, IEnumerable<Wallet> wallets)
         {
             _context = context;
-            _context.Database.Migrate();
-            if (!_context.Wallets.Any())
-                PopulateSeedData();
+            
+            if (!_context.Wallets.Any() && wallets != null)
+            {
+                _context.Wallets.AddRange(wallets);
+                _context.SaveChanges();
+            }
         }
 
-        private void PopulateSeedData()
+        public static IEnumerable<Wallet> GetInitialWalletsFromFile(string filepath)
         {
-            string json = File.ReadAllText("Data/InitialWalletBalances.json");
+            string json = File.ReadAllText(filepath);
             var wallets = JsonConvert.DeserializeObject<IEnumerable<Wallet>>(json);
-            _context.Wallets.AddRange(wallets);
-            _context.SaveChanges();
+            return wallets;
         }
-
+        
         public event Action<IEnumerable<WalletDiff>> DataUpdated;
 
         private void OnDataUpdated(IEnumerable<WalletDiff> diffs)

@@ -1,6 +1,7 @@
 ﻿using BitcoinWalletWatcher.Data;
 using BitcoinWalletWatcher.Reporting;
 using BitcoinWalletWatcher.Reporting.Email;
+using BitcoinWalletWatcher.Scraper;
 using BitcoinWalletWatcher.Utilities;
 using Microsoft.Extensions.Configuration;
 using Quartz;
@@ -11,6 +12,7 @@ using System.Collections.Specialized;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace BitcoinWalletWatcher
 {
@@ -41,12 +43,18 @@ namespace BitcoinWalletWatcher
                 HttpHelper http = new HttpHelper();
 
                 //setup web wallet balance scraper
-                WalletScraper scrape = new WalletScraper(http);
+                string baseUrl = config["EmailSetting:ApiUrl"];
+                WalletScraper scrape = new WalletScraper(http,baseUrl);
 
                 //setup database
                 string connectionStr = config["DatabaseSetting:ConnectionString"];
-                MonitorContext context = new MonitorContext(connectionStr);//entity context
-                WalletRepository repo = new WalletRepository(context);
+                MonitorContext context = MonitorContext.GetContext(connectionStr);//entity context
+                context.Database.Migrate();
+                
+                //repo
+                string walletFilePath = config["DatabaseSetting:InitialWalletFileStorePath"];
+                var wallets = WalletRepository.GetInitialWalletsFromFile(walletFilePath);
+                WalletRepository repo = new WalletRepository(context, wallets);
 
                 //setup emailer and reporting
                 EmailSetting emailSet = new EmailSetting();
